@@ -1,0 +1,4 @@
+com\oursecurity\controller\UserController.class
+com\oursecurity\services\UserService.class
+com\oursecurity\SpringSecurityApplication.class
+com\oursecurity\model\User.class
