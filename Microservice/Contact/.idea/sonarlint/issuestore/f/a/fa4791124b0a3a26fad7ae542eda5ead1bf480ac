@@ -1,0 +1,5 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘α«
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ώδ†μ
+L
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Σ‰ΩE

@@ -30,4 +30,8 @@ public class ContactRequestBean {
     @JsonIgnore
     private ContactStatus status;
 
+//    public Long getUserId(){
+//        return contactId;
+//    }
+
 }
